@@ -1,0 +1,111 @@
+Artistas informacionales y trabajo creativo en Internet  (Fase 1): estado del arte
+Versión open source
+
+Objetivos
+
+1. Elaborar una discusión sociológica y un estado del arte sobre el trabajo creativo en Internet.
+
+2. Desarrollar una tipología del trabajo creativo en Internet basado en competencias artísticas.
+
+3. Indagar por la relación entre trabajo creativo, entretenimiento y publicidad en Internet.
+
+4. Contextualizar esta discusión en la historia del capitalismo contemporáneo.
+
+5. Contribuir al esclarecimiento de la identidad social de los trabajadores creativos en Internet
+y a la formulación de sus derechos laborales.
+
+Planteamiento
+
+1. ¿Qué es una artista informacional? Se trata de un trabajador creativo que produce «contenidos» para portales de entretenimiento complejo como YouTube. Hablamos de artistas profesionales y aficionados que trabajan con modelos interdisciplinarios. La creación de sus contenidos requiere la articulación de habilidades artísticas y tecnológicas, y, frecuentemente, la colaboración de un equipo creativo. El artista informacional tiene que conocer ampliamente sobre edición de video, diseño gráfico, animación, rudimentos de programación, maquillaje, escenografía, fotografía y actuación. 
+	El artista informacional aprovecha el carácter relativamente público y abierto de Internet, y toma ventaja de que se trata de un mundo en constante mutación. Es una persona cuyo tiempo ––al menos parcialmente–– no tiene demanda en la economía capitalista industrial (central o periférica), sino en la economía post industrial, descentralizada, desregulada y flexible.
+	La otra cara de la moneda son las empresas informacionales. Detengámonos en Youtube, cuyo negocio principal es el video en línea, especialmente el “video blog”. Según estadísticas de Cisco en 2021 el 82 % del tráfico en Internet será video; Youtube será el actor dominante de este mercado. Según el Director de Youtube para América Latina, la región es la de mayor crecimiento a nivel mundial, con consumos mensuales de 6.000 millones de horas de video, cifra que crecerá un 50% anualmente. Agreguemos, finalmente, algo sobre Colombia: fue elegida para instalar los cuarteles de Google (incluido Youtube) responsables de la zona Norte de Suramérica (las otras oficinas quedan en México y Brasil), lo cual nos habla de este país como lugar estratégico.
+	 En ese contexto, Youtube ha abierto un espacio gigantesco en el que la creatividad artística es valiosa. Los productores pueden convertirse en empresarios sin capital y experimentar una libertad creativa mayor que la ofrecida en el acartonado mundo de la televisión. 
+	En el cuadro 1 presentamos una primera aproximación cuantitativa a estas formas de trabajo. 1) El trabajador creativo con más desarrollo en Youtube es el músico; se trata de una tendencia global, especialmente intensa en Colombia. 2) La segunda tendencia (pareja en las Américas, más no ––al parecer–– con respecto a Asia) es el predominio del Showperson, que se puede definir como el arte de hacer comedia y drama en Internet; es interesante, por lo demás, que Colombia y los demás países fuertes de América Latina coincidan en este punto con los Estados Unidos. 3) Al contrastar la participación de las grandes corporaciones de entretenimiento con la de los “Youtubers” surge la pregunta de por qué en las Américas parece haber una competencia nítida entre corporaciones y trabajadores creativos mientras en la India no; Colombia, por otra parte, es el que cuenta con la participación más débil de las corporaciones. 4) Mientras la India luce poco diversificada las Américas lucen diversificadas (y Colombia aún más). En contraste con América Latina en Colombia hay pocos trabajadores interesados en animación digital; en las Américas sólo Estados Unidos tiene productores de tutoriales artísticos en el Top 30. 5) Finalmente, sobresale la poca representación de los productores de tutoriales artísticos, reglón importantísimo en términos de valor agregado, pues se trata de un artista que hace las veces de tutor virtual y que hace publicidad para productos especializados.
+
+Cuadro 1: Canales más influyentes en Youtube [mayo-junio, 2018]
+
+
+
+	Algunas preguntas que se desprenden hasta aquí son: ¿En qué sentido este trabajo creativo es trabajo? ¿Produce valor? ¿Por qué son centrales las competencias artísticas en esta actividad? ¿Se trata de formas de trabajo precario o de un trabajo post-salarial y emancipador? ¿Qué tanto pesan las diferencias culturales vs. la situación de los mercados de trabajo, para explicar las diferencias entre las Américas y otras regiones en donde también está creciendo el trabajo informacional con arte? ¿Construye Youtube una retórica tecnoartística?
+
+2. Al observar está población trabajadora se percibe su diversidad en términos de clase, sexo, género y edad. Una de las constantes parece ser la combinación de tres rasgos: 1) la no pertenencia al mundo del trabajo asalariado, 2) la presencia de competencias, gustos y estudios creativos, y 3) una inclinación casi natural a fusionar todos estos elementos en la producción de contenidos con arreglo a modelos de entretenimiento digital de masas.
+	Algunas preguntas: ¿Qué es “creatividad” en este contexto? ¿Cómo es esta población sociológicamente? ¿hay una continuidad entre esta nueva forma de trabajo y las formas de estatus tradicionales?
+
+3. Existe una interacción entre estas formas de trabajo creativo, el entretenimiento y la publicidad en Internet. La publicidad ––sostuvo Luhmann–– «declara abiertamente sus intenciones, pero refina y esconde los medios que utiliza». El artista informacional es una pieza clave en la conexión entre entretenimiento y publicidad: con su trabajo interdisciplinario vende todo tipo de productos, al mismo tiempo que enseña o entretiene. 
+	El valor de la publicidad no consiste únicamente en el éxito comercial ––continúa Luhmann––, su función es «estabilizar la relación entre redundancia y variedad en la cultura cotidiana». Si esta hipótesis es cierta los productores de arte informacional serían una pieza clave, pues contribuirían de manera decisiva a contrarrestar la voracidad de los mercados por diversidad (u originalidad) y a la estabilidad de la publicidad a través de la repetición.
+	¿Las nuevas formas de arte informacional hacen parte de una transformación del star system  y la televisión? ¿O, quizás, constituyen una nueva periferia de la televisión-red? ¿Son competidores? ¿Internet está absorbiendo funciones de otros sistemas (publicidad, entretenimiento)?
+
+4. Los artistas informacionales encajan en la Economía informacional (Castells). ¿Cuál es su estatus en las redes complejas de este modo de desarrollo? ¿Su presencia es un síntoma de mutación, contracción o expansión de la economía informacional? ¿Hay una correlación entre el crecimiento del trabajo artístico informacional y la contracción de la producción industrial?
+
+5. La función del entretenimiento es eliminar el tiempo sobrante. Lo que nos plantea la venta de la creatividad en Internet es que no sólo hablamos del tiempo de los consumidores sino también de los productores (roles que normalmente están solapados en una misma persona). Hay crecientes remanentes de tiempo libre por el aumento de la productividad del trabajo pero también por la relativa irrelevancia de algunos grupos poblacionales. ¿Cómo entender la relación entre estas variaciones del tiempo sobrante y la emergencia de entretenimiento artístico informacional?
+	Hay una potencial vulnerabilidad en estas nuevas poblaciones trabajadoras: ¿cuál es el papel de los Estados y las instituciones supranacionales con respecto a este fenómeno? ¿Como determinar sus derechos laborales?
+	El juego (una duplicación segura de la realidad) parece ser una pieza fundamental de estas nuevas formas de trabajo (es omnipresente en Youtube, pero no hay que olvidar que el streaming de videojuegos en portales como Twitch está creciendo rápidamente). ¿A qué se debe la importancia del juego en este contexto? ¿Tendrá que ver con la evasión de la vulnerabilidad causada por el tiempo libre?
+
+Estado del arte (bibliografía selecta)
+
+Sociología del Internet
+
+Atzori, Luigi; Iera, Antonio; Morabito, Giacomo; Nitti, Michele. "The Social Internet of Things (SIoT) – When Social Networks Meet the Internet of Things: Concept, Architecture and Network characterization". Computer Networks.  2012, 56 (16): 3594–3608. 
+
+Castells, Manuel. “La dimensión cultural de Internet”. http://www.uoc.edu/culturaxxi/esp/articles/castells0502/castells0502.html 
+
+Cavanagh, Allison. Sociology in the Age of the Internet, McGraw-Hill International, 2007. 
+
+Castells, Manuel. “The Impact of the Internet on Society: A Global Perspective”, September 8, 2014, https://www.technologyreview.com/s/530566/the-impact-of-the-internet-on-society-a-global-perspective/  
+
+DiMaggio, Paul, “Make Money Surfing the Web? The Impact of Internet Use on the Earnings of U.S. Workers”. American Sociological Review 2008; 73; 227.
+
+Lessig, Lawrence. Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity. New York, The Penguin Press, 2004. 
+
+Miller, Daniel. The Internet: An Ethnographic Approach. Oxford, Berg, 2000.
+
+Murthy, Dhiraj. «Digital Ethnography: An Examination of the Use of New Technologies for Social Research». Sociology, 2008, 42(5): 837-855.
+
+“Social Implications of the Internet”, Annual Review of Sociology, Vol. 27:307-336, (Volume publication date August 2001).
+
+ Legislación laboral e Internet
+
+United States. Congress. House. Committee on the Judiciary. Subcommittee on Courts, the Internet. Ensuring Artists Fair Compensation: Updating the Performance Right and Platform Parity for the 21st Century : Hearing Before the Subcommittee On Courts, the Internet, and Intellectual Property of the Committee On the Judiciary, House of Representatives, One Hundred Tenth Congress, First Session, July 31, 2007. Washington: U.S. G.P.O. : For sale by the Supt. of Docs., U.S. G.P.O., 2007.
+
+Artistas en la Economía informacional
+
+Carey, Brainard. New Market for Artists: How to Sell, Fund Projects, and Exhibit Using Social Media, DIY Pop-ups, EBay, Kickstarter, and Much More. New York, Skyhorse Publishing, Inc., 2012.
+
+DiMaggio, Paul, “Arts Participation as Cultural Capital in the United States, 1982–2002: Signs of Decline?”, Poetics 32 (2004): 169–94.
+
+Thompson, Donald N. The $12 million stuffed shark: The Curious Economics of Contemporary Art. Palgrave Macmillan, New York, NY: Palgrave Macmillan, 2008.
+
+Arte e Internet
+
+Chandler, Annmarie. At a Distance: Precursors to Art and Activism On the Internet. Cambridge, Mass.: MIT Press, 2005.
+
+Frischer, Bernard. “Art and Science in the Age of Digital Reproduction: From Mimetic Representation to Interactive Virtual Reality”. Virtual Archaeology Review, v. 2, n. 4, p. 19-32, may 2011. 
+
+Goriunova, Olga. Art Platforms and Cultural Production On the Internet. New York: Routledge, 2012.
+
+Gronlund, Melissa. Contemporary Art and Digital Culture. Abingdon, Oxon: Routledge, 2017.
+
+Hracs, Brian. “A Creative Industry in Transition: The Rise of Digitally Driven Independent Music Production”. Growth and Change: A Journal of Urban and Regional Policy 43 (2012): 442–61.
+
+Kyncl, Robert. Streampunks: YouTube and the Rebels Remaking Media. New York: HarperBusiness, 2017.
+
+Leyshon, Andrew. “The Software Slump?: Digital Music, the Democratisation of Technology, and the Decline of the Recording Studio Sector within the Musical Economy.” Environment and Planning 41 (2009): 1309–31.
+
+Lovejoy, Margot. Postmodern Currents: Art and Artists in the Age of Electronic Media. Ann Arbor: UMI Research Press, 1989.
+
+McGahan, Christopher. Racing Cyberculture: Minoritarian Art and Cultural Politics On the Internet. New York: Routledge, 2008.
+
+Olia Lialina, ed. Mass Effect: Art and the Internet in the Twenty-first Century. Cambridge, Massachusetts: The MIT Press, 2015.
+
+Respini, Eva. Art in the Age of the Internet: 1989 to Today. Boston, Massachusetts: The Institute of Contemporary Art, 2018.
+
+Sporton, Gregory. Digital Creativity: Something From Nothing. Houndmills, Basingstoke, Hampshire: Palgrave Macmillan, 2015.
+
+Estudios sociales de la creatividad
+
+Boden, Margaret ed. Dimensions of Creativity. Cambridge, Mass.: MIT Press, 1994.  
+Caves, Richard. Creative Industries. Cambridge: Harvard University Press, 2000.
+National Endowment for the Arts. Artist in the workforce 1995-2005. https://www.arts.gov/sites/default/files/ArtistsInWorkforce.pdf
+Shaw, Melvin. Creativity and Affect. Norwood, New Jersey: Ablex, 1994. 
+Wechsler, Judith, ed. On Aesthetics in Science. Boston: Birkhäuser, 1988. 
+￼ El informacionalismo es un Modo de desarrollo cuya productividad está basada en tecnologías de la información (Castells, Manuel. La sociedad red. Alianza, 1998, pp. 43, 88.).￼ Se trata de redes complejas de trabajadores que venden creatividad / publicidad para terceros, usando tecnologías como la nube y el streaming.￼ Recuperado en 20/6/2018, https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/complete-white-paper-c11-481360.html￼ “Youtube ––asegura su Director en América Latina–– ha invertido más que cualquier otra plataforma para proteger los derechos en línea de los productores de contenido.”. Esta simple idea ayuda a comprender el valor estratégico de los trabajadores creativos para esa empresa. Recuperado en 15/6/2018 https://www.elespectador.com/tecnologia/latinoamerica-region-de-youtube-mas-crece-elmundo-ente-articulo-652197￼ Idem.￼ Son personas que de manera profesional o por hobby han desarrollado habilidades musicales. Hacen tutoriales, reviews, covers, retos. Dejamos por fuera aquellos cantantes y músicos que sólo utilizan Youtube para promover sencillos con videos musicales. ￼ Luego de estudiar decenas de perfiles encontramos que varios de ellos tuvieron experiencia en artes performativas (teatro, danza, actuación en televisión). Los más exitosos tienen millones de suscriptores y vistas, y contratos publicitarios; varios han publicado libros y ganado premios (“MTVMiaw”, por ejemplo). Los showperson son muy populares entre millennials y centennials, pero también son bastante cuestionados porque hacen cosas que “podría hacer cualquiera”. Sus videos incluyen retos, StoryTime, “confesiones”, tutoriales, hacks, covers y bromas, de ahí que los definamos como comediantes (aunque requieren competencias artísticas aplicadas como la edición y producción de video).￼ En esta categoría incluimos todo tipo de actividades artísticas cuyo objetivo primordial es entretener con educación.￼ Datos y categorías de clasificación propios, basados en los 30 canales más influyentes según Socialblade, portal especializado en estadísticas sobre Internet.￼ Una de las discusiones recientes en la sociología es la re-valoración del concepto de trabajo: ¿sigue siendo pertinente entender el trabajo únicamente como una relación técnica de producción? Parece ser que en un contexto de desplazamiento de trabajo humano por la tecnología se ha hecho necesario volver a pensar en el trabajo como «un soporte privilegiado de inscripción en la estructura social». (Castel, Robert. La metamorfosis de la cuestión social. Argentina: Paidós, 1995, p. 15. Al mismo tiempo, las NTI están propiciando nuevas formas de trabajo.￼ Luhmann, Niklas. La realidad de los medios de masas, México: Anthropos, 2000, p. 66.￼ Luhmann, Niklas. La realidad, p. 74.￼ Entretenimiento basado en artistas carismáticos (sus orígenes se remontan al Broadway de las primeras décadas del siglo XX).￼ Luhmann, Niklas. La realidad, p. 75.
